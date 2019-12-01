@@ -8,8 +8,7 @@ contents = [int(i) for i in open("day1_input.txt").readlines()]
 for i in range(len(contents)):
     contents[i] = int(contents[i] // 3 - 2)
 
-full = sum(contents)
-print(f"First part: Elves require {full} liters of fuel!")
+print(f"First part: Elves require {sum(contents)} liters of fuel!")
 
 # Part 2
 
