@@ -1,4 +1,4 @@
-# Advent of Code - Day 1, puzzle 1
+# Advent of Code - Day 1
 # https://adventofcode.com/2019/day/1
 
 # Part 1
