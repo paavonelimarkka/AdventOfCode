@@ -11,7 +11,6 @@ input[2] = 2
 start = 0
 should_run = True
 
-
 while (should_run == True):
     
     i=0 
@@ -38,5 +37,4 @@ while (should_run == True):
 
 print(input)
     
- 
-    
+# TODO: Part 2
